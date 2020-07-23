@@ -1,0 +1,17 @@
+body {
+    padding: 20px;
+    margin: 10;
+}
+
+#title {
+    background: lightblue;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+}
+
+#header {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 35px;
+    margin: 10px;
+}
