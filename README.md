@@ -12,7 +12,8 @@ Created individual pages for each plot and a means by which a user can navigate 
 * Bootstrap
 
 ## Sample Screenshot
-![](webvisualization/assets/Fig1.png)
+![](Web-Design-project/WebVisualizations/assets/Fig1.png)
+
 
 
 
