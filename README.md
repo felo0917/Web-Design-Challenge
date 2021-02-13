@@ -12,7 +12,7 @@ Created individual pages for each plot and a means by which a user can navigate 
 * Bootstrap
 
 ## Sample Screenshot
-![Alt text](C:\Users\felo0\Web-Design-Challenge\WebVisualizations\assets\fig1.png?raw=true)
+![](webvisualization/assets/Fig1.png)
 
 
 
