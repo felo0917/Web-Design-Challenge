@@ -11,7 +11,7 @@ Created individual pages for each plot and a means by which a user can navigate 
 * HTML/CSS
 * Bootstrap
 
-## Sample Screenshot
+## Sample Screenshots
 ![](C:\Users\felo0\Web-Design-Challenge\WebVisualizations\assets\Fig1.png)
 
 
