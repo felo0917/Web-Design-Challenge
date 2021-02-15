@@ -15,6 +15,8 @@ Created individual pages for each plot and a means by which a user can navigate 
 ## Sample Screenshots
 ![Fig1](https://user-images.githubusercontent.com/61329378/107861169-921bf980-6e09-11eb-834d-2daccf9ecede.png)
 
+![Fig2](https://user-images.githubusercontent.com/61329378/108001473-27f28880-6fb2-11eb-9f90-248147903443.png)
+
 
 
 
