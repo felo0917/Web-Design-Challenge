@@ -11,17 +11,10 @@ Created individual pages for each plot and a means by which a user can navigate 
 * HTML/CSS
 * Bootstrap
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ## Sample Screenshots
-![](C:\Users\felo0\Web-Design-Challenge\WebVisualizations\assets\Fig1.png)
-=======
-## Sample Screenshot
-=======
-## Sample Screenshots
->>>>>>> 203741d0758e39a64db20d725a7fd4bea312f32c
 ![Fig1](https://user-images.githubusercontent.com/61329378/107861169-921bf980-6e09-11eb-834d-2daccf9ecede.png)
->>>>>>> 079b4c87e6ee83caa690bf21aebc9ae9e0d3ea0d
+
 
 
 
