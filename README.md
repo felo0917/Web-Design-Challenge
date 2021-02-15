@@ -11,7 +11,7 @@ Created individual pages for each plot and a means by which a user can navigate 
 * HTML/CSS
 * Bootstrap
 
-## Sample Screenshot
+## Sample Screenshots
 ![Fig1](https://user-images.githubusercontent.com/61329378/107861169-921bf980-6e09-11eb-834d-2daccf9ecede.png)
 
 
